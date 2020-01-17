@@ -4,3 +4,5 @@
 ##### 2.User can search for products.
 ##### 3.User can add items into the cart.
 ##### 4.Sub Total can be calculated automatically.
+
+* Run Index.html to run the app.
